@@ -1,8 +1,8 @@
 # BUMP - AI
 
-![](https://github.com/Abusayid693/Hack-PSU/blob/main/BUMP%20AI%20Logo.JPG)
 
-# Brief
+
+### Brief
 
 **It's becoming harder for drivers to slow their speed with over 90% admitting that they drive over the speed limit, putting children's lives, who are not as road smart as adults in danger. Bump AI is the solution to this problem.**
 
