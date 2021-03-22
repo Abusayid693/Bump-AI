@@ -16,9 +16,9 @@ Today, roads have become more dangerous with drivers being able to be distracted
 ---
 **Bump AI** is an automated speed controlling system that allows drivers to slow down via tracking their speed and raising speed _bumps_ out of the ground if they are driving over the limit of the area. We use computer vision to analyze an object's speed and times.
 
-#Creation Process
+# Creation Process
 ---
-###Detection
+### Detection
 
 Our methods use the motion of a vehicle to separate it from a fixed background image. This method can be divided into three categories 
 - The method of using background subtraction
@@ -33,7 +33,7 @@ Our methods use the motion of a vehicle to separate it from a fixed background i
 ![Haar Cascade](https://i.imgur.com/u3cul0B.jpg)
 
 ---
-###Speed Estimation
+### Speed Estimation
 
 To estimate the speed timestamps of a vehicle are collected at waypoints ABC or CBA. From there, our speed = distance / time equation is put to use to calculate 2 speeds among the 3 waypoints. Speeds are averaged together and converted to km/hr and miles/hr. In order to get the distance we compare two consecutive frames in terms of pixel difference (approximate ). 
 
@@ -90,7 +90,7 @@ Over the past few hours, we have learned how to communicate effectively as well 
 ---
 Our system has a lot of versatility but to even start effectively in the future, we plan to implement our system physically onto roads and test them out within school areas to see if they have a useful effect on student's safety and driver's speed. We’ve all experienced unsafe, fast-moving vehicles operated by inattentive drivers that nearly mow us down. We feel almost powerless. These drivers disregard speed limits, crosswalk areas, school zones, and “children at play” signs altogether, they speed up almost as if they are trying to catch some air.
 
-##References
+## References
 ---
 https://www.analyticsvidhya.com/blog/2020/04/vehicle-detection-opencv-python/
 https://www.pyimagesearch.com/2019/12/02/opencv-vehicle-detection-tracking-and-speed-estimation/
