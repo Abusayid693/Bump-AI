@@ -1,6 +1,11 @@
 # BUMP - AI
+---
+This project was presented in **HACK-Psu(spring)** fortunately winning 3 prizes
+- HackPSU 3rd Place
+- HackPSU Audience Favorite
+- Nittany Ai Alliance - 1st place
 
-
+### For demo visit [link](https://youtu.be/evG8thwSb10)
 
 ### Brief
 
