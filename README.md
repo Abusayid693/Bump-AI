@@ -2,6 +2,8 @@
 ---
 This project was presented in **HACK-Psu(spring)** fortunately winning 3 prizes
 
+Devpost -- https://devpost.com/software/bump-ai-qoui9h
+
 ### For demo visit [link](https://youtu.be/evG8thwSb10)
 
 ### Brief
